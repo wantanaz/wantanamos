@@ -1,1 +1,1 @@
-alert("Ohhhhhhhhhhhhhhhhhhh");
+alert("Oh");
